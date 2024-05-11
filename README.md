@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Muppasanipraneeth
-- 👀 I’m interested in  java developer
-- 🌱 I’m currently learning java
+- 👀 I’m interested in  full stack developer
+- 🌱 I’m currently learning java dsa
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me ..
+- 📫 How to reach me social media praneeth707 instagram
+
 
 <!---
 Muppasanipraneeth/Muppasanipraneeth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
